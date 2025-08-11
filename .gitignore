@@ -2,3 +2,6 @@
 .vscode/
 
 build/
+
+*build/hid_test_full.uf2
+*build/hid_test_background.uf2
